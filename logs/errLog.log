@@ -1,0 +1,13 @@
+20230627	14:24:03	08a52061-a2e5-4e52-a490-18ecb45fa704	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:24:16	98863119-f306-41d3-82e9-9df0d1e34314	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:25:28	d23fe0f2-2d22-45e0-aa4e-4a567800faa5	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:25:49	120001de-a74e-424c-955b-f74243301709	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:26:53	3483d4f7-86f1-4f36-a476-5a5ee7119a64	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:26:54	8a5d9a28-90f0-4d15-be22-67667f29e5d7	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:26:58	d9e93d05-6231-43aa-860b-54bc88580ec2	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:26:59	fdce59d3-f34f-4f28-8be2-d090ab210499	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:27:05	034be47d-fc5f-4bce-a9af-90c58c7958ba	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:27:51	cc5c2fae-8917-49a1-80bd-e794f9b17c39	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:30:14	811cf666-da20-4f7d-8ca6-117bbcf5dc08	Error: Not allowed by CORS	GET	/api/sell-now	http://localhost:3000
+20230627	14:39:56	dacbd7aa-52a5-442c-85f8-b383565f1daf	Error: Not allowed by CORS	OPTIONS	/api/admin/posts	http://localhost:3000
+20230627	14:40:49	7464a076-9e4d-4ffb-9d92-4fdabe7a3a1b	Error: Not allowed by CORS	OPTIONS	/api/admin/posts	http://localhost:3000
