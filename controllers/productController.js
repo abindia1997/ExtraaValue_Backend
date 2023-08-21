@@ -13,6 +13,28 @@ router.get("/api/sell-now", async (req, res) => {
   }
 });
 
+// GET http://localhost:8000/api/cat/brand?brand=Samsung
+router.get('/api/cat/brand', async (req, res) => {
+  try {
+    const { brand } = req.query;
+   
+    if (!brand) {
+      return res.status(400).json({ message: 'Brand parameter is required' });
+    }
+
+    const products = await Product.find({ brand: brand });
+    res.status(200).json(products);
+
+  } catch (err) {
+
+    console.error(err.message);
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
+
+
+
 router.get("/api/sell-now/:id", async (req, res) => {
   // http://localhost:3500/api/sell-now/6489ff0cd89ec06d1a80b50a
   try {
